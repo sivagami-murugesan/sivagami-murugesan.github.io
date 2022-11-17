@@ -1,3 +1,4 @@
+--Data Processing--
 --Creation of a new table to union all the month wise data--
 CREATE TABLE `my-project-1-364015.Bikeshare_Trip_data.trip_data_21_22`
 ( 
